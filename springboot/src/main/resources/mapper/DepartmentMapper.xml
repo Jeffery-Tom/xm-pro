@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--总的来说这个mapper.xml与mapper是有对应关系的-->
+
+<!--和mapper要对应-->
+<mapper namespace="com.example.mapper.DepartmentMapper">
+
+<!--    xml语句 id为mapper里定义的方法 resultType为方法里的参数(而且一定是完整的包路径名字)-->
+<!--    resultType返回型 这是查出来-->
+    <select id="selectAll" resultType="com.example.entity.Department">
+            select * from `department`
+            <where>
+                <if test="name !=null">name like concat('%',#{name},'%')</if>
+            </where>
+            order by id desc
+    </select>
+
+<!--    parameterType参数类型 这是插入-->
+<!--    通过parameterType里的Department获取参数所以用#{},注意!!department_id需要驼峰因为values是通过mybaits从java取值了-->
+    <insert id="insert" parameterType="com.example.entity.Department">
+        insert into `department` (name)
+        values (#{name})
+    </insert>
+
+    <update id="updateById" parameterType="com.example.entity.Department">
+        update `department` set name = #{name}
+        where id= #{id}
+
+    </update>
+</mapper>

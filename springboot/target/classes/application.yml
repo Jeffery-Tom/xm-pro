@@ -1,0 +1,19 @@
+server:
+  port: 9090
+
+#数据库配置
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/xm-test?useUnicode=true&characterEncoding=utf8
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+#配置mybatis实体和xml映射
+mybatis:
+#映射xml
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+#    配置日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#    把数据库里的下划线变成驼峰
+    map-underscore-to-camel-case: true

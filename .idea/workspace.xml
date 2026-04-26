@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58b659df-3b2e-42ed-8a91-f9af86cecc74" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\MavenProp\apache-maven-3.8.9" />
+        <option name="localRepository" value="D:\MavenProp\apache-maven-3.8.9\repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\MavenProp\apache-maven-3.8.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="21" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3CDIT7S4kgY5Z0aUoMaj7UdJFA6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringbootApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/前后端分离项目/代码/xm-pro/vue/src/views&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev (1).executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\IntelliJ IDEA 2024.1.6\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\前后端分离项目\代码\xm-pro\vue\src\views" />
+      <recent name="D:\前后端分离项目\代码\xm-pro\springboot\src\main\resources\mapper" />
+      <recent name="D:\前后端分离项目\代码\xm-pro\vue\src\assets" />
+      <recent name="D:\前后端分离项目\代码\xm-test\vue1\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\前后端分离项目\代码\xm-test\vue\src\assets" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.mapper" />
+      <recent name="com.example.service" />
+      <recent name="com.example.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="xm-test1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="xm-test1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b659df-3b2e-42ed-8a91-f9af86cecc74" name="Changes" comment="" />
+      <created>1775913720330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775913720330</updated>
+      <workItem from="1775913721585" duration="362000" />
+      <workItem from="1775914175277" duration="114000" />
+      <workItem from="1775914325442" duration="26000" />
+      <workItem from="1775914370353" duration="30000" />
+      <workItem from="1775914411526" duration="8000" />
+      <workItem from="1775914428902" duration="7000" />
+      <workItem from="1775914442604" duration="15000" />
+      <workItem from="1775914473263" duration="415000" />
+      <workItem from="1775914919776" duration="69000" />
+      <workItem from="1775915022725" duration="6000" />
+      <workItem from="1775915040970" duration="4000" />
+      <workItem from="1775915056248" duration="4000" />
+      <workItem from="1775915072555" duration="32000" />
+      <workItem from="1775915314601" duration="6000" />
+      <workItem from="1775915329743" duration="8000" />
+      <workItem from="1775915345599" duration="29000" />
+      <workItem from="1775915385526" duration="10000" />
+      <workItem from="1775915402623" duration="9000" />
+      <workItem from="1775915420229" duration="29000" />
+      <workItem from="1775915486298" duration="8000" />
+      <workItem from="1775915501898" duration="6000" />
+      <workItem from="1775915528274" duration="26000" />
+      <workItem from="1775915561899" duration="8000" />
+      <workItem from="1775915576368" duration="15000" />
+      <workItem from="1775915597572" duration="258000" />
+      <workItem from="1775915884729" duration="43000" />
+      <workItem from="1775915942560" duration="107000" />
+      <workItem from="1775916185864" duration="35000" />
+      <workItem from="1775916319524" duration="24000" />
+      <workItem from="1775916350551" duration="12000" />
+      <workItem from="1775916373481" duration="511000" />
+      <workItem from="1775916901632" duration="142000" />
+      <workItem from="1775997313844" duration="1899000" />
+      <workItem from="1776069420421" duration="624000" />
+      <workItem from="1776080929972" duration="410000" />
+      <workItem from="1776154240557" duration="6776000" />
+      <workItem from="1776170756125" duration="7067000" />
+      <workItem from="1776258570930" duration="5814000" />
+      <workItem from="1776343274179" duration="507000" />
+      <workItem from="1776343809144" duration="889000" />
+      <workItem from="1776347009109" duration="61000" />
+      <workItem from="1776347073558" duration="19000" />
+      <workItem from="1776347095837" duration="13000" />
+      <workItem from="1776347110792" duration="12000" />
+      <workItem from="1776347124404" duration="11000" />
+      <workItem from="1776347137082" duration="25000" />
+      <workItem from="1776347163642" duration="9000" />
+      <workItem from="1776347176818" duration="6000" />
+      <workItem from="1776347188596" duration="7000" />
+      <workItem from="1776347197285" duration="6000" />
+      <workItem from="1776347205518" duration="16000" />
+      <workItem from="1776347224591" duration="11000" />
+      <workItem from="1776347241756" duration="5000" />
+      <workItem from="1776347250948" duration="44000" />
+      <workItem from="1776347299334" duration="8000" />
+      <workItem from="1776347333444" duration="159000" />
+      <workItem from="1776347502985" duration="44000" />
+      <workItem from="1776347549730" duration="45000" />
+      <workItem from="1776347705769" duration="208000" />
+      <workItem from="1776347949989" duration="229000" />
+      <workItem from="1776348188200" duration="44000" />
+      <workItem from="1776348235726" duration="16000" />
+      <workItem from="1776348258115" duration="4000" />
+      <workItem from="1776348266076" duration="61000" />
+      <workItem from="1776348341735" duration="105000" />
+      <workItem from="1776348684948" duration="22000" />
+      <workItem from="1776348808849" duration="7000" />
+      <workItem from="1776348828781" duration="47000" />
+      <workItem from="1776348902980" duration="18000" />
+      <workItem from="1776348927215" duration="8000" />
+      <workItem from="1776348937734" duration="143000" />
+      <workItem from="1776349109224" duration="9000" />
+      <workItem from="1776349139652" duration="68000" />
+      <workItem from="1776349220955" duration="693000" />
+      <workItem from="1776349921870" duration="42000" />
+      <workItem from="1776349967946" duration="32000" />
+      <workItem from="1776350002232" duration="153000" />
+      <workItem from="1776350170303" duration="161000" />
+      <workItem from="1776350370486" duration="59000" />
+      <workItem from="1776350449654" duration="144000" />
+      <workItem from="1776350597280" duration="65000" />
+      <workItem from="1776350675790" duration="194000" />
+      <workItem from="1776350873075" duration="58000" />
+      <workItem from="1776350934922" duration="60000" />
+      <workItem from="1776350996831" duration="5000" />
+      <workItem from="1776351003788" duration="2000" />
+      <workItem from="1776351126969" duration="39000" />
+      <workItem from="1776351378512" duration="1698000" />
+      <workItem from="1776433717693" duration="1975000" />
+      <workItem from="1776494229306" duration="5144000" />
+      <workItem from="1776522116362" duration="3875000" />
+      <workItem from="1776526618065" duration="217000" />
+      <workItem from="1776580814173" duration="8697000" />
+      <workItem from="1776589602851" duration="1189000" />
+      <workItem from="1776605055158" duration="5501000" />
+      <workItem from="1776672584117" duration="1759000" />
+      <workItem from="1776674581680" duration="1135000" />
+      <workItem from="1776690069864" duration="2461000" />
+      <workItem from="1776693096486" duration="4619000" />
+      <workItem from="1776755469855" duration="16316000" />
+      <workItem from="1776849590985" duration="13250000" />
+      <workItem from="1777020748689" duration="4155000" />
+      <workItem from="1777031487375" duration="9001000" />
+      <workItem from="1777123693224" duration="4835000" />
+      <workItem from="1777185660713" duration="4652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
