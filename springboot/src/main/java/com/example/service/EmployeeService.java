@@ -51,9 +51,13 @@ public class EmployeeService {
         employeeMapper.deleteById(id);
     }
 
+    /*
+    可用Mybatis-Plus的removeByIds(推荐)
+    或者让employeeMapper继承BaseMapper 里面提供了CRUD功能//employeeMapper.deleteBatchIds(ids);
+     */
     public void deleteBatch(List<Integer> ids) {
         for (Integer id : ids) {
-            this.deleteById(id);
+            this.deleteById(id);//多次调用性能差耗时长
         }
     }
 

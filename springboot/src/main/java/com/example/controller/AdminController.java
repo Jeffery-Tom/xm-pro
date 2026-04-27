@@ -47,7 +47,7 @@ public class AdminController {
     @DeleteMapping("/deleteById/{id}")
     public Result deleteById(@PathVariable Integer id){
         adminService.deleteById(id);
-        return Result.success();//新增数据无需返回数据
+        return Result.success();//删除数据无需返回数据
     }
 
     /*
@@ -56,7 +56,7 @@ public class AdminController {
     @DeleteMapping("/deleteBatch")
     public Result deleteBatch(@RequestBody List<Integer> ids){//需要用@RequestBody接收因为是个数组
         adminService.deleteBatch(ids);
-        return Result.success();//新增数据无需返回数据
+        return Result.success();
     }
 
     /*

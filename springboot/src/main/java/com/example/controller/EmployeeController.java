@@ -96,7 +96,7 @@ public class EmployeeController {
                             @RequestParam(defaultValue = "1") Integer pageNum,
                             @RequestParam(defaultValue = "10") Integer pageSize){
         //service mapper sql都走过一遍之后传回来pageInfo给前端
-        PageInfo<Employee> pageInfo= employeeService.selectPage(employee,pageNum,pageSize);
+        PageInfo<Employee> pageInfo= employeeService.selectPage(employee,pageNum,pageSize);//PageInfo是什么?
         return Result.success(pageInfo);
     }
 

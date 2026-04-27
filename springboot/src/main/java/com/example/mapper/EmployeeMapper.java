@@ -25,4 +25,5 @@ public interface EmployeeMapper {
 
     @Select("select * from `employee` where no = #{no}")
     Employee selectByNo(String no);
+
 }
